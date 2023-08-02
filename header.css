@@ -1,0 +1,14 @@
+.cabeçalho{background-color: var(--cor-cabeçalho); 
+padding: 1em;}
+.container{ display:flex;
+aling-itens:center;}
+.container__imagem,.container__frase{ padding: 1em}
+.container__titulo,. .container__frase{ display: nome;}
+@media screen and ( min-width:820px) {
+.container__titulo,.container__titulo__negrito
+font_size: 30px;}
+.container{
+display:flex;
+align-items: center;}
+.container__imagem, .container__frase{
+padding: 1em;}
